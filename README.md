@@ -1,2 +1,2 @@
 # spider-
-python
+simple spider
